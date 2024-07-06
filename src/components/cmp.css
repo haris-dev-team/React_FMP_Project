@@ -1,0 +1,7 @@
+.active {
+  text-decoration: underline;
+}
+.all {
+  all: unset;
+  cursor: pointer;
+}
